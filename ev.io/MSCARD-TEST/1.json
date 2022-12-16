@@ -1,0 +1,242 @@
+[
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178839678157864",
+		"cvv": "336",
+		"expiry_date": "9/2022",
+		"card_holder_name": "Ava Robinson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178839678157864"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178861166822957",
+		"cvv": "493",
+		"expiry_date": "9/2021",
+		"card_holder_name": "William Lewis",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178861166822957"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178836586083802",
+		"cvv": "993",
+		"expiry_date": "11/2022",
+		"card_holder_name": "Brianna Jackson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178836586083802"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178865596293176",
+		"cvv": "947",
+		"expiry_date": "1/2021",
+		"card_holder_name": "Madison Clark",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178865596293176"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178757465606952",
+		"cvv": "790",
+		"expiry_date": "7/2021",
+		"card_holder_name": "Abigail Gonzalez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178757465606952"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178835275417917",
+		"cvv": "468",
+		"expiry_date": "6/2025",
+		"card_holder_name": "Anna Scott",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178835275417917"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178834130904318",
+		"cvv": "411",
+		"expiry_date": "8/2023",
+		"card_holder_name": "William Carter",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178834130904318"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178836337881173",
+		"cvv": "181",
+		"expiry_date": "6/2021",
+		"card_holder_name": "Jes Thomas",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178836337881173"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178831909819578",
+		"cvv": "662",
+		"expiry_date": "9/2025",
+		"card_holder_name": "Aiden Adams",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178831909819578"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178839310778531",
+		"cvv": "382",
+		"expiry_date": "7/2023",
+		"card_holder_name": "Emily Martinez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178839310778531"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178833124835926",
+		"cvv": "872",
+		"expiry_date": "5/2025",
+		"card_holder_name": "Alyssa Perez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178833124835926"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178836735154702",
+		"cvv": "114",
+		"expiry_date": "6/2021",
+		"card_holder_name": "Hannah Baker",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178836735154702"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178808061152105",
+		"cvv": "861",
+		"expiry_date": "2/2021",
+		"card_holder_name": "Brooklyn Adams",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178808061152105"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178802723226787",
+		"cvv": "746",
+		"expiry_date": "5/2022",
+		"card_holder_name": "Grace Young",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178802723226787"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178830644491586",
+		"cvv": "515",
+		"expiry_date": "7/2023",
+		"card_holder_name": "Isabella Perez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178830644491586"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178802672050469",
+		"cvv": "993",
+		"expiry_date": "8/2024",
+		"card_holder_name": "Noah Lewis",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178802672050469"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178802613491251",
+		"cvv": "547",
+		"expiry_date": "1/2023",
+		"card_holder_name": "Mia Jackson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178802613491251"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178835935782320",
+		"cvv": "852",
+		"expiry_date": "1/2021",
+		"card_holder_name": "Madison Davis",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178835935782320"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178802742919016",
+		"cvv": "760",
+		"expiry_date": "1/2021",
+		"card_holder_name": "Alexis Lopez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178802742919016"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178866654192870",
+		"cvv": "727",
+		"expiry_date": "7/2023",
+		"card_holder_name": "Anthony Gonzalez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178866654192870"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178802314896899",
+		"cvv": "894",
+		"expiry_date": "11/2023",
+		"card_holder_name": "Sophia Allen",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178802314896899"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178808406478553",
+		"cvv": "969",
+		"expiry_date": "5/2022",
+		"card_holder_name": "Elijah Robinson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178808406478553"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178869276073502",
+		"cvv": "793",
+		"expiry_date": "3/2023",
+		"card_holder_name": "Daniel Anderson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178869276073502"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178808461293566",
+		"cvv": "878",
+		"expiry_date": "8/2025",
+		"card_holder_name": "Jos Jackson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178808461293566"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178757449155266",
+		"cvv": "493",
+		"expiry_date": "2/2022",
+		"card_holder_name": "Addison Hernandez",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178757449155266"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178838773888860",
+		"cvv": "750",
+		"expiry_date": "10/2023",
+		"card_holder_name": "Jose Anderson",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178838773888860"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178750796056344",
+		"cvv": "180",
+		"expiry_date": "8/2021",
+		"card_holder_name": "Alexis Harris",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178750796056344"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178835311791507",
+		"cvv": "600",
+		"expiry_date": "9/2024",
+		"card_holder_name": "Michael King",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178835311791507"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178807233369449",
+		"cvv": "441",
+		"expiry_date": "8/2024",
+		"card_holder_name": "Noah Moore",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178807233369449"
+	},
+	{
+		"network": "Mastercard",
+		"credit_card_number": "5178802112956440",
+		"cvv": "290",
+		"expiry_date": "2/2024",
+		"card_holder_name": "Alexis Walker",
+		"validation": "https://dnschecker.org/credit-card-validator.php?ccn=5178802112956440"
+	}
+]

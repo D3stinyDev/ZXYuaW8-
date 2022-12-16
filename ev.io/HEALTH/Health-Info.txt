@@ -1,0 +1,362 @@
+ Complete Report
+ 1 Errors
+
+ 5 Warnings
+
+ 249 Passed
+
+ Blacklist Test Results
+ 0 Errors
+
+ 0 Warnings
+
+ 220 Passed
+
+ Mail Test Results
+ 1 Errors
+
+ 3 Warnings
+
+ 14 Passed
+
+ DNS Test Results
+ 0 Errors
+
+ 2 Warnings
+
+ 15 Passed
+
+6 Problems
+ 	Category	Host	Result
+DMARC	ev.io	DNS DMARC Record not found.
+SMTP	amir.mx.cloudflare.net.	Open relay.
+SMTP	amir.mx.cloudflare.net.	Reverse DNS is Not a valid Hostname.
+SMTP	amir.mx.cloudflare.net.	Reverse DNS does not match SMTP Banner.
+DNS	ev.io	SOA Expire Value is out of recommended range.
+DNS	ev.io	SOA Serial Number Format is Invalid.
+Blacklist Tests (ev.io)
+ 	Category	Host	List
+Blacklist	ev.io	all.s5h.net
+Blacklist	ev.io	b.barracudacentral.org
+Blacklist	ev.io	bl.spamcop.net
+Blacklist	ev.io	blacklist.woody.ch
+Blacklist	ev.io	bogons.cymru.com
+Blacklist	ev.io	cbl.abuseat.org
+Blacklist	ev.io	cdl.anti-spam.org.cn
+Blacklist	ev.io	combined.abuse.ch
+Blacklist	ev.io	db.wpbl.info
+Blacklist	ev.io	dnsbl-1.uceprotect.net
+Blacklist	ev.io	dnsbl-2.uceprotect.net
+Blacklist	ev.io	dnsbl-3.uceprotect.net
+Blacklist	ev.io	dnsbl.anticaptcha.net
+Blacklist	ev.io	dnsbl.dronebl.org
+Blacklist	ev.io	dnsbl.inps.de
+Blacklist	ev.io	dnsbl.sorbs.net
+Blacklist	ev.io	dnsbl.spfbl.net
+Blacklist	ev.io	drone.abuse.ch
+Blacklist	ev.io	duinv.aupads.org
+Blacklist	ev.io	dul.dnsbl.sorbs.net
+Blacklist	ev.io	dyna.spamrats.com
+Blacklist	ev.io	dynip.rothen.com
+Blacklist	ev.io	http.dnsbl.sorbs.net
+Blacklist	ev.io	ips.backscatterer.org
+Blacklist	ev.io	ix.dnsbl.manitu.net
+Blacklist	ev.io	korea.services.net
+Blacklist	ev.io	misc.dnsbl.sorbs.net
+Blacklist	ev.io	noptr.spamrats.com
+Blacklist	ev.io	orvedb.aupads.org
+Blacklist	ev.io	pbl.spamhaus.org
+Blacklist	ev.io	proxy.bl.gweep.ca
+Blacklist	ev.io	psbl.surriel.com
+Blacklist	ev.io	relays.bl.gweep.ca
+Blacklist	ev.io	relays.nether.net
+Blacklist	ev.io	sbl.spamhaus.org
+Blacklist	ev.io	short.rbl.jp
+Blacklist	ev.io	singular.ttk.pte.hu
+Blacklist	ev.io	smtp.dnsbl.sorbs.net
+Blacklist	ev.io	socks.dnsbl.sorbs.net
+Blacklist	ev.io	spam.abuse.ch
+Blacklist	ev.io	spam.dnsbl.anonmails.de
+Blacklist	ev.io	spam.dnsbl.sorbs.net
+Blacklist	ev.io	spam.spamrats.com
+Blacklist	ev.io	spambot.bls.digibase.ca
+Blacklist	ev.io	spamrbl.imp.ch
+Blacklist	ev.io	spamsources.fabel.dk
+Blacklist	ev.io	ubl.lashback.com
+Blacklist	ev.io	ubl.unsubscore.com
+Blacklist	ev.io	virus.rbl.jp
+Blacklist	ev.io	web.dnsbl.sorbs.net
+Blacklist	ev.io	wormrbl.imp.ch
+Blacklist	ev.io	xbl.spamhaus.org
+Blacklist	ev.io	z.mailspike.net
+Blacklist	ev.io	zen.spamhaus.org
+Blacklist	ev.io	zombie.dnsbl.sorbs.net
+Blacklist Tests (amir.mx.cloudflare.net.)
+ 	Category	Host	List
+Blacklist	amir.mx.cloudflare.net.	all.s5h.net
+Blacklist	amir.mx.cloudflare.net.	b.barracudacentral.org
+Blacklist	amir.mx.cloudflare.net.	bl.spamcop.net
+Blacklist	amir.mx.cloudflare.net.	blacklist.woody.ch
+Blacklist	amir.mx.cloudflare.net.	bogons.cymru.com
+Blacklist	amir.mx.cloudflare.net.	cbl.abuseat.org
+Blacklist	amir.mx.cloudflare.net.	cdl.anti-spam.org.cn
+Blacklist	amir.mx.cloudflare.net.	combined.abuse.ch
+Blacklist	amir.mx.cloudflare.net.	db.wpbl.info
+Blacklist	amir.mx.cloudflare.net.	dnsbl-1.uceprotect.net
+Blacklist	amir.mx.cloudflare.net.	dnsbl-2.uceprotect.net
+Blacklist	amir.mx.cloudflare.net.	dnsbl-3.uceprotect.net
+Blacklist	amir.mx.cloudflare.net.	dnsbl.anticaptcha.net
+Blacklist	amir.mx.cloudflare.net.	dnsbl.dronebl.org
+Blacklist	amir.mx.cloudflare.net.	dnsbl.inps.de
+Blacklist	amir.mx.cloudflare.net.	dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	dnsbl.spfbl.net
+Blacklist	amir.mx.cloudflare.net.	drone.abuse.ch
+Blacklist	amir.mx.cloudflare.net.	duinv.aupads.org
+Blacklist	amir.mx.cloudflare.net.	dul.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	dyna.spamrats.com
+Blacklist	amir.mx.cloudflare.net.	dynip.rothen.com
+Blacklist	amir.mx.cloudflare.net.	http.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	ips.backscatterer.org
+Blacklist	amir.mx.cloudflare.net.	ix.dnsbl.manitu.net
+Blacklist	amir.mx.cloudflare.net.	korea.services.net
+Blacklist	amir.mx.cloudflare.net.	misc.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	noptr.spamrats.com
+Blacklist	amir.mx.cloudflare.net.	orvedb.aupads.org
+Blacklist	amir.mx.cloudflare.net.	pbl.spamhaus.org
+Blacklist	amir.mx.cloudflare.net.	proxy.bl.gweep.ca
+Blacklist	amir.mx.cloudflare.net.	psbl.surriel.com
+Blacklist	amir.mx.cloudflare.net.	relays.bl.gweep.ca
+Blacklist	amir.mx.cloudflare.net.	relays.nether.net
+Blacklist	amir.mx.cloudflare.net.	sbl.spamhaus.org
+Blacklist	amir.mx.cloudflare.net.	short.rbl.jp
+Blacklist	amir.mx.cloudflare.net.	singular.ttk.pte.hu
+Blacklist	amir.mx.cloudflare.net.	smtp.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	socks.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	spam.abuse.ch
+Blacklist	amir.mx.cloudflare.net.	spam.dnsbl.anonmails.de
+Blacklist	amir.mx.cloudflare.net.	spam.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	spam.spamrats.com
+Blacklist	amir.mx.cloudflare.net.	spambot.bls.digibase.ca
+Blacklist	amir.mx.cloudflare.net.	spamrbl.imp.ch
+Blacklist	amir.mx.cloudflare.net.	spamsources.fabel.dk
+Blacklist	amir.mx.cloudflare.net.	ubl.lashback.com
+Blacklist	amir.mx.cloudflare.net.	ubl.unsubscore.com
+Blacklist	amir.mx.cloudflare.net.	virus.rbl.jp
+Blacklist	amir.mx.cloudflare.net.	web.dnsbl.sorbs.net
+Blacklist	amir.mx.cloudflare.net.	wormrbl.imp.ch
+Blacklist	amir.mx.cloudflare.net.	xbl.spamhaus.org
+Blacklist	amir.mx.cloudflare.net.	z.mailspike.net
+Blacklist	amir.mx.cloudflare.net.	zen.spamhaus.org
+Blacklist	amir.mx.cloudflare.net.	zombie.dnsbl.sorbs.net
+Blacklist Tests (linda.mx.cloudflare.net.)
+ 	Category	Host	List
+Blacklist	linda.mx.cloudflare.net.	all.s5h.net
+Blacklist	linda.mx.cloudflare.net.	b.barracudacentral.org
+Blacklist	linda.mx.cloudflare.net.	bl.spamcop.net
+Blacklist	linda.mx.cloudflare.net.	blacklist.woody.ch
+Blacklist	linda.mx.cloudflare.net.	bogons.cymru.com
+Blacklist	linda.mx.cloudflare.net.	cbl.abuseat.org
+Blacklist	linda.mx.cloudflare.net.	cdl.anti-spam.org.cn
+Blacklist	linda.mx.cloudflare.net.	combined.abuse.ch
+Blacklist	linda.mx.cloudflare.net.	db.wpbl.info
+Blacklist	linda.mx.cloudflare.net.	dnsbl-1.uceprotect.net
+Blacklist	linda.mx.cloudflare.net.	dnsbl-2.uceprotect.net
+Blacklist	linda.mx.cloudflare.net.	dnsbl-3.uceprotect.net
+Blacklist	linda.mx.cloudflare.net.	dnsbl.anticaptcha.net
+Blacklist	linda.mx.cloudflare.net.	dnsbl.dronebl.org
+Blacklist	linda.mx.cloudflare.net.	dnsbl.inps.de
+Blacklist	linda.mx.cloudflare.net.	dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	dnsbl.spfbl.net
+Blacklist	linda.mx.cloudflare.net.	drone.abuse.ch
+Blacklist	linda.mx.cloudflare.net.	duinv.aupads.org
+Blacklist	linda.mx.cloudflare.net.	dul.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	dyna.spamrats.com
+Blacklist	linda.mx.cloudflare.net.	dynip.rothen.com
+Blacklist	linda.mx.cloudflare.net.	http.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	ips.backscatterer.org
+Blacklist	linda.mx.cloudflare.net.	ix.dnsbl.manitu.net
+Blacklist	linda.mx.cloudflare.net.	korea.services.net
+Blacklist	linda.mx.cloudflare.net.	misc.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	noptr.spamrats.com
+Blacklist	linda.mx.cloudflare.net.	orvedb.aupads.org
+Blacklist	linda.mx.cloudflare.net.	pbl.spamhaus.org
+Blacklist	linda.mx.cloudflare.net.	proxy.bl.gweep.ca
+Blacklist	linda.mx.cloudflare.net.	psbl.surriel.com
+Blacklist	linda.mx.cloudflare.net.	relays.bl.gweep.ca
+Blacklist	linda.mx.cloudflare.net.	relays.nether.net
+Blacklist	linda.mx.cloudflare.net.	sbl.spamhaus.org
+Blacklist	linda.mx.cloudflare.net.	short.rbl.jp
+Blacklist	linda.mx.cloudflare.net.	singular.ttk.pte.hu
+Blacklist	linda.mx.cloudflare.net.	smtp.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	socks.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	spam.abuse.ch
+Blacklist	linda.mx.cloudflare.net.	spam.dnsbl.anonmails.de
+Blacklist	linda.mx.cloudflare.net.	spam.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	spam.spamrats.com
+Blacklist	linda.mx.cloudflare.net.	spambot.bls.digibase.ca
+Blacklist	linda.mx.cloudflare.net.	spamrbl.imp.ch
+Blacklist	linda.mx.cloudflare.net.	spamsources.fabel.dk
+Blacklist	linda.mx.cloudflare.net.	ubl.lashback.com
+Blacklist	linda.mx.cloudflare.net.	ubl.unsubscore.com
+Blacklist	linda.mx.cloudflare.net.	virus.rbl.jp
+Blacklist	linda.mx.cloudflare.net.	web.dnsbl.sorbs.net
+Blacklist	linda.mx.cloudflare.net.	wormrbl.imp.ch
+Blacklist	linda.mx.cloudflare.net.	xbl.spamhaus.org
+Blacklist	linda.mx.cloudflare.net.	z.mailspike.net
+Blacklist	linda.mx.cloudflare.net.	zen.spamhaus.org
+Blacklist	linda.mx.cloudflare.net.	zombie.dnsbl.sorbs.net
+Blacklist Tests (isaac.mx.cloudflare.net.)
+ 	Category	Host	List
+Blacklist	isaac.mx.cloudflare.net.	all.s5h.net
+Blacklist	isaac.mx.cloudflare.net.	b.barracudacentral.org
+Blacklist	isaac.mx.cloudflare.net.	bl.spamcop.net
+Blacklist	isaac.mx.cloudflare.net.	blacklist.woody.ch
+Blacklist	isaac.mx.cloudflare.net.	bogons.cymru.com
+Blacklist	isaac.mx.cloudflare.net.	cbl.abuseat.org
+Blacklist	isaac.mx.cloudflare.net.	cdl.anti-spam.org.cn
+Blacklist	isaac.mx.cloudflare.net.	combined.abuse.ch
+Blacklist	isaac.mx.cloudflare.net.	db.wpbl.info
+Blacklist	isaac.mx.cloudflare.net.	dnsbl-1.uceprotect.net
+Blacklist	isaac.mx.cloudflare.net.	dnsbl-2.uceprotect.net
+Blacklist	isaac.mx.cloudflare.net.	dnsbl-3.uceprotect.net
+Blacklist	isaac.mx.cloudflare.net.	dnsbl.anticaptcha.net
+Blacklist	isaac.mx.cloudflare.net.	dnsbl.dronebl.org
+Blacklist	isaac.mx.cloudflare.net.	dnsbl.inps.de
+Blacklist	isaac.mx.cloudflare.net.	dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	dnsbl.spfbl.net
+Blacklist	isaac.mx.cloudflare.net.	drone.abuse.ch
+Blacklist	isaac.mx.cloudflare.net.	duinv.aupads.org
+Blacklist	isaac.mx.cloudflare.net.	dul.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	dyna.spamrats.com
+Blacklist	isaac.mx.cloudflare.net.	dynip.rothen.com
+Blacklist	isaac.mx.cloudflare.net.	http.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	ips.backscatterer.org
+Blacklist	isaac.mx.cloudflare.net.	ix.dnsbl.manitu.net
+Blacklist	isaac.mx.cloudflare.net.	korea.services.net
+Blacklist	isaac.mx.cloudflare.net.	misc.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	noptr.spamrats.com
+Blacklist	isaac.mx.cloudflare.net.	orvedb.aupads.org
+Blacklist	isaac.mx.cloudflare.net.	pbl.spamhaus.org
+Blacklist	isaac.mx.cloudflare.net.	proxy.bl.gweep.ca
+Blacklist	isaac.mx.cloudflare.net.	psbl.surriel.com
+Blacklist	isaac.mx.cloudflare.net.	relays.bl.gweep.ca
+Blacklist	isaac.mx.cloudflare.net.	relays.nether.net
+Blacklist	isaac.mx.cloudflare.net.	sbl.spamhaus.org
+Blacklist	isaac.mx.cloudflare.net.	short.rbl.jp
+Blacklist	isaac.mx.cloudflare.net.	singular.ttk.pte.hu
+Blacklist	isaac.mx.cloudflare.net.	smtp.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	socks.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	spam.abuse.ch
+Blacklist	isaac.mx.cloudflare.net.	spam.dnsbl.anonmails.de
+Blacklist	isaac.mx.cloudflare.net.	spam.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	spam.spamrats.com
+Blacklist	isaac.mx.cloudflare.net.	spambot.bls.digibase.ca
+Blacklist	isaac.mx.cloudflare.net.	spamrbl.imp.ch
+Blacklist	isaac.mx.cloudflare.net.	spamsources.fabel.dk
+Blacklist	isaac.mx.cloudflare.net.	ubl.lashback.com
+Blacklist	isaac.mx.cloudflare.net.	ubl.unsubscore.com
+Blacklist	isaac.mx.cloudflare.net.	virus.rbl.jp
+Blacklist	isaac.mx.cloudflare.net.	web.dnsbl.sorbs.net
+Blacklist	isaac.mx.cloudflare.net.	wormrbl.imp.ch
+Blacklist	isaac.mx.cloudflare.net.	xbl.spamhaus.org
+Blacklist	isaac.mx.cloudflare.net.	z.mailspike.net
+Blacklist	isaac.mx.cloudflare.net.	zen.spamhaus.org
+Blacklist	isaac.mx.cloudflare.net.	zombie.dnsbl.sorbs.net
+DMARC Tests
+ DNS DMARC Record not found.
+SPF Tests
+ 	Category	Host	Result
+SPF	ev.io	DNS Record found.
+SPF	ev.io	SPF Record found.
+SPF	ev.io	Only one record found.
+SPF	ev.io	String length is OK.
+SPF	ev.io	No items after 'ALL'.
+SPF	ev.io	No type 'PTR' found.
+SPF	ev.io	Number of void lookups is OK.
+SPF	ev.io	Number of lookups is OK. (1)
+SPF	ev.io	The record is valid.
+SPF	ev.io	No deprecated records found.
+SPF Record Details
+Type	Prefix	Value	PrefixDesc	Description
+record		txt		v=spf1 include:_spf.mx.cloudflare.net ~all
+version	v	spf1	PASS	The SPF record version.
+include	+	_spf.mx.cloudflare.net	PASS	The specified domain is searched for an 'allow'.
+all	~		SoftFail	Always matches. It goes at the end of your record.
+MX Tests
+Pref	Hostname	IP Address	TTL
+37	amir.mx.cloudflare.net.	162.159.205.11	5 minutes
+37	amir.mx.cloudflare.net.	2606:4700:f5::12,2606:4700:f5::13,2606:4700:f5::11	5 minutes
+SMTP Tests (amir.mx.cloudflare.net.)
+ 	Category	Host	Result
+SMTP	amir.mx.cloudflare.net.	Open relay.
+SMTP	amir.mx.cloudflare.net.	Reverse DNS is Not a valid Hostname.
+SMTP	amir.mx.cloudflare.net.	Reverse DNS does not match SMTP Banner.
+SMTP	amir.mx.cloudflare.net.	Supports TLS.
+SMTP	amir.mx.cloudflare.net.	0 seconds - Good on Connection time.
+SMTP	amir.mx.cloudflare.net.	0.5 seconds - Good on Transaction time.
+SMTP	amir.mx.cloudflare.net.	162.159.205.11 resolves to 162.159.205.11
+Session Transcript:
+Transcript: Connecting to 162.159.205.11
+Transcript: 220 mx.cloudflare.net Cloudflare Email ESMTP Service ready
+Transcript: 
+Transcript: EHLO dnschecker.org
+Transcript: 250-mx.cloudflare.net greets dnschecker.org
+Transcript: 250-STARTTLS
+Transcript: 250-8BITMIME
+Transcript: 250 ENHANCEDSTATUSCODES
+Transcript: 
+Transcript: MAIL FROM:<mail@dnschecker.org>
+Transcript: 250 2.1.0 Ok
+Transcript: 
+Transcript: RCPT TO:<mail@iplocation.io>
+Transcript: 250 2.1.0 Ok
+Transcript: 
+Transcript: QUIT
+Transcript: 221 2.0.0 mx.cloudflare.net Cloudflare Email ESMTP Service closing transmission channel
+Transcript: 
+Transcript:
+DNS Tests
+ 	Category	Host	Result
+DNS	ev.io	SOA Expire Value is out of recommended range.
+DNS	ev.io	SOA Serial Number Format is Invalid.
+DNS	ev.io	All Name Servers have Public IP Addresses.
+DNS	ev.io	No Open Zone Transfer.
+DNS	ev.io	All of the name servers are Authoritative.
+DNS	ev.io	Name Servers appear to be Dispersed.
+DNS	ev.io	No Bad Glue Detected.
+DNS	ev.io	All name servers are responding.
+DNS	ev.io	Local NS list matches Parent NS list.
+DNS	ev.io	No Open Recursive Name Server Detected.
+DNS	ev.io	Primary Name Server Listed At Parent.
+DNS	ev.io	DNS Record found.
+DNS	ev.io	Serial numbers match.
+DNS	ev.io	SOA Minimum TTL Value is within recommended range.
+DNS	ev.io	SOA Refresh Value is within recommended range.
+DNS	ev.io	SOA Retry Value is within recommended range.
+DNS	ev.io	At Least Two Name Servers Found.
+DNS
+NS	IP Address	TTL	Time (ms)	Status	Auth	Parent	Local
+dina.ns.cloudflare.com.	2606:4700:50::adf5:3a6b	1 day	4				
+glen.ns.cloudflare.com.	2606:4700:58::adf5:3ba9	1 day	3				
+Session Transcript:
+TimeStamp:
+LookupServer 1233ms
+
+Depth: 1
+ServerName: a0.nic.io.
+ServerIP: 65.22.160.17
+Authoritative: NON-AUTH
+ElapsedTime: 163 ms
+Result: Received 2 Referrals, Status=NOERROR
+Question: 
+Answers: ev.io.			3600 IN	NS dina.ns.cloudflare.com., ev.io.			3600 IN	NS glen.ns.cloudflare.com.
+
+
+Depth: 2
+ServerName: dina.ns.cloudflare.com.
+ServerIP: 2606:4700:50::adf5:3a6b
+Authoritative: AUTH
+ElapsedTime: 3 ms
+Result: Received 2 Answers, Status=NOERROR
+Question: 
+Answers: ev.io.			86400 IN NS dina.ns.cloudflare.com., ev.io.			86400 IN NS glen.ns.cloudflare.com.
